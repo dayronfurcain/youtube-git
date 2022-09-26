@@ -1,0 +1,116 @@
+commit 1bfc66cbfc81daf478dc89ded1dedab8e720c2e5
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Sun Sep 25 13:57:21 2022 -0400
+
+    Agregando 2 párrafos
+
+commit 1fd9b966a33f4b98cc34c50e0614355e2bcb1d86
+Merge: 24d29c5 3891b50
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Sun Sep 25 13:55:04 2022 -0400
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 24d29c5cde40ac07e91f2960bd7b96f293f76467
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Sun Sep 25 13:35:46 2022 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 3891b503ca7933c424941dc34a8365015a168635
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Sun Sep 25 13:35:46 2022 -0400
+
+    Agregando las estaciones del año
+
+commit 06a31c2d7a4d7bc4888e0e37b15b693d90bdd669
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Sun Sep 25 13:27:00 2022 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 6ec6fde39d08ca18ee3e2b931fed952e4f82dc56
+Merge: 9040898 4354575
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Sun Sep 25 13:20:46 2022 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 4354575dd7242912072d30afde5fdfc8812c7202
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Sun Sep 25 13:09:13 2022 -0400
+
+    Agregando index.js al index.html
+
+commit 90408980215de730a59a8b330c812a019e94347c
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Sun Sep 25 13:04:39 2022 -0400
+
+    Agregando style.css al index.html
+
+commit a71378a5a9e430da4560c9da7710f6d78857bcc7
+Merge: 8c16d23 a931633
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Sun Sep 25 12:51:12 2022 -0400
+
+    Merge branch 'js'
+
+commit a931633e767707e310da510e7a75cedf6b38e170
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Fri Sep 16 04:36:20 2022 -0400
+
+    Creando index.js
+
+commit 8c16d234a2f0dc500da3cd52d5030f044ef425ec
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Fri Sep 16 04:26:57 2022 -0400
+
+    Creando style.css
+
+commit 648fc40c33c3faca18a0db7f7b4fd8a034e391e8
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Fri Sep 16 04:19:59 2022 -0400
+
+    Creando index.html
+
+commit 193cdbc21e99b9b857fbd56c822006f11ba6933c
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Fri Sep 16 04:00:51 2022 -0400
+
+    Ignorando archivos .exe
+
+commit 5b49fce409b34177dbab709787be41e8f2e05ca5
+Author: dayronfurcain <113483779+dayronfurcain@users.noreply.github.com>
+Date:   Thu Sep 15 21:31:45 2022 -0400
+
+    Creando licencia del repositorio
+
+commit 7aad9435e4e53d86e36cd37cdc4eca77c4ac86bc
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Thu Sep 15 21:24:01 2022 -0400
+
+    Agregando más contenido al README
+
+commit 5130042b7f446fa59e7c7414be23d0048b7605f7
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Thu Sep 15 21:21:18 2022 -0400
+
+    Agregando más contenido al README
+
+commit d41057180ac52b2ac8e41d7ccdb783f9f090b1ca
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Thu Sep 15 21:19:05 2022 -0400
+
+    Agregando más contenido al README
+
+commit 217ba65420641af2e4d8465b14adaafcee20bb7d
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Thu Sep 15 20:50:03 2022 -0400
+
+    Agregando contenido inicial al README
+
+commit 75b80006273544e1eaf6f29b38aef48e2e2d550f
+Author: dayronfurcain <dayronfurcain@gmail.com>
+Date:   Thu Sep 15 20:43:14 2022 -0400
+
+    Primer commit 😊
