@@ -1,4 +1,13 @@
 html {
   background-color: #000;
   color: #fff;
+  font-family: sans-serif;
+}
+
+a {
+  color: orange;
+}
+
+a:hover {
+  color: orangered;
 }
